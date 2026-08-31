@@ -1,0 +1,6 @@
+{
+  "name": "PATILLER",
+  "description": "Loja de calçados moderna e exclusiva. Encontre o par perfeito para o seu estilo na PATILLER.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
